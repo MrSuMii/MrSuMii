@@ -5,7 +5,7 @@
 - 🔭 I’m worked on **Netfix website**
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 🌱 I’m currently learning **Bsc-IT**
+- 🌱 I Recently Completed **Bsc-IT**
 
 - 👨‍💻 All of my projects are available at [https://sumitkumarmaurya15.wixsite.com/portfolio](https://sumitkumarmaurya15.wixsite.com/portfolio)
 
